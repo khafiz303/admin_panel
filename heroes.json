@@ -1,0 +1,54 @@
+{
+  "heroes": [
+    {
+      "id": "5d7859f4-a1c3-4191-910d-5de3dbda206f",
+      "name": "Садиров",
+      "description": "программировать",
+      "element": "water"
+    },
+    {
+      "id": "5abbfa2d-51da-4946-ba11-819138b8d5ce",
+      "name": "Садиров",
+      "description": "огонь",
+      "element": "wind"
+    },
+    {
+      "id": "f164cc6b-142b-45b9-9f9e-2fe9e75336df",
+      "name": "Алмас",
+      "description": "читать",
+      "element": "earth"
+    }
+  ],
+  "filters": [
+    {
+      "id": "1",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "2",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "3",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "4",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "5",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
